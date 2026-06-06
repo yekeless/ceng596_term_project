@@ -1,6 +1,6 @@
 # 📰 Associated Press (1988) Search Engine & IR Evaluation Dashboard
 
-**Author:** Yunus Emre Keleş | Middle East Technical University (METU)  
+**Author:** Yunus Emre Keleş | Baran Boloğur
 **Course:** CENG 596 
 
 ## 📝 Abstract
